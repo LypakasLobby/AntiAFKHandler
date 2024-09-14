@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: antiafkhandler
+Specification-Vendor: 
+Specification-Version: 1
+Implementation-Title: AntiAFKHandler
+Implementation-Version: 1.0.0
+Implementation-Vendor: 
+Implementation-Timestamp: 2024-07-03T14:26:21-0500
+
